@@ -1,8 +1,4 @@
-# IFT-411-TO-DO-LIST
-A to do list app.
+# IFT-411 To-Do List (Daily Planner)
 
-https://th.bing.com/th/id/OIP.3XuxLoK4j2ZE0UjaGBf-EwHaEI?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3
-
-
-
-
+A simple and efficient Flutter-based daily planner application designed to help users manage their daily tasks. This app allows you to add, track, and manage to-do items with persistent local storage.
+![screenshot](https://github.com/user-attachments/assets/7a7332ad-3ce0-42d2-827f-c020a33e689f)
